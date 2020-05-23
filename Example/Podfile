@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MXGeometry_Example' do
+  pod 'MXGeometry', :path => '../'
+
+  target 'MXGeometry_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
