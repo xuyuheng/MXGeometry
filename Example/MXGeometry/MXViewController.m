@@ -7,6 +7,7 @@
 //
 
 #import "MXViewController.h"
+#import <MXGeometry/MXGeometry.h>
 
 @interface MXViewController ()
 
